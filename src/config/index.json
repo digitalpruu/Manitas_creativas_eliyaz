@@ -53,22 +53,20 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 312 4408604",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "manitascreativaseliyaz@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "MANITAS CREATIVAS ELIYAZ",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
