@@ -62,12 +62,10 @@
         "icon": "/assets/images/email.png"
       },
       {
-        
-      },
-      {
         "name": "Facebook",
         "description": "MANITAS CREATIVAS ELIYAZ",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/facebook.jpg",
+        "url":""
       }
     ]
   },
